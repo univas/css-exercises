@@ -8,10 +8,10 @@ Antes de realizar os exercícios desta lista faça um *fork* deste projeto para 
 o *clone* do seu *fork* para o seu local de trabalho realizando os passos abaixo:
 
 1. Crie um diretório com o seu nome na raiz do projeto seguindo o padrão "nome-sobrenome" (letras mínusculas, sem acentos e caracteres especiais)
-1. Para cada exercício 
-    - Crie um branch separado
-    - Crie um sub-diretório no diretório criando anteriormente nomeando-o com a sua respectiva numeração conforme o exemplo de diretórios abaixo
-    - Ao finalizar o exercício faça o *commit* e em seguida envie um *pull request* para a avaliação
+1. Para cada exercício: 
+    - Crie um branch separado;
+    - Crie um sub-diretório dentro diretório criado anteriormente nomeando-o com a respectiva numeração do exercício, conforme o exemplo de diretórios abaixo;
+    - Ao finalizar o exercício faça o *commit* e em seguida envie um *pull request* para a avaliação.
 
 ```
 css-exercises/
