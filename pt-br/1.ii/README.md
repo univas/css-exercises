@@ -4,4 +4,6 @@ Estilize um link para quando o usuário passar com o mouse em cima adicione um u
 
 ## Exemplo
 
-//TODO Adicionar uma imagem de exemplo
+![Link sem hover](underline-color.png)
+
+![Link com hover](underline-color-hover.png)
