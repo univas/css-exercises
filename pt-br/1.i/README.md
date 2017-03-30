@@ -6,4 +6,4 @@ Estilize um parágrafo para quando o usuário passar com o mouse em cima as pala
 
 ![Parágrafo sem hover](words-highlight.png)
 
-![Parágrafo sem hover](words-highlight-hover.png)
+![Parágrafo com hover](words-highlight-hover.png)
