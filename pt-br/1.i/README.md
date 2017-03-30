@@ -4,6 +4,8 @@ Estilize um parágrafo para quando o usuário passar com o mouse em cima as pala
 
 ## Exemplo
 
+Veja os exemplos abaixo como referência:
+
 ### Parágrafo normal
 ![Parágrafo sem hover](words-highlight.png)
 
