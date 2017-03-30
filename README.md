@@ -2,5 +2,5 @@
 
 A list of exercises to practice CSS.
 
-* 🇧🇷 Brazilian Portuguese
+* [🇧🇷 Brazilian Portuguese](pt-br)
 * :us: English
