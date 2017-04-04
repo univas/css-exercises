@@ -1,0 +1,9 @@
+p:hover span {
+    font-size: 1.2em;
+    background-color: yellow;
+    color: black; 
+}
+
+p:hover {
+    color: slategray;
+} 
