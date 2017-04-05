@@ -1,0 +1,8 @@
+p:hover .destaque{
+    color: black;
+    background-color: yellow;
+}
+
+p:hover {
+    color: darkgray;
+}
