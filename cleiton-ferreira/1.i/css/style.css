@@ -1,0 +1,8 @@
+p:hover {
+    color: gray;
+}
+
+
+p:hover > .highlight {
+    background-color: yellow;
+}
