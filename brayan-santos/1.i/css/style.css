@@ -1,0 +1,8 @@
+p:hover{
+    color:grey;
+}
+
+p:hover span{
+    color: black;
+    background-color:yellow;
+}
