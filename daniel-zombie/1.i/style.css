@@ -1,0 +1,13 @@
+.highlight:hover{
+    color:#ccc;
+    transition: color 2s ease;
+}
+.higlight span{
+    display: inline-block;
+    transition: all 2s ease;
+}
+
+.highlight:hover span{
+    background-color: yellow;
+    color: #000;
+}
