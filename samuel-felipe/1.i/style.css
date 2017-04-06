@@ -1,10 +1,11 @@
 p:hover {
 
     color: gray;
-    
+    transition: color .1s ease
 }
 p:hover span{
 
     background-color : yellow;
+    color : #000
 
 }
