@@ -1,0 +1,57 @@
+html {
+    height: 100%;
+    background: transparent url(bequigraundi.png) no-repeat top left fixed;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+body {
+   font-family: Courier New;  
+   padding: 0;
+   margin: auto;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 0 0 0.2em;
+}
+
+iframe {
+    border: 0;
+    float: left;
+    margin: -13px 20px 10px 30px;
+}
+
+div {
+    background: rgba(255,255,255,0.7);
+    margin: 355px 674px 0 30px;
+}
+
+p { 
+    font-style: italic;
+    font-size: 18px;
+    text-align: justify;
+    text-indent: 40px;
+    margin: 0 10px 0 10px;
+}
+
+p::before{
+    content: '"';
+}
+
+p::after{
+    content: '"';
+}
+
+p:hover span {
+    font-size: 1.3em;
+    background-color: yellow;
+    color: black;
+    font-weight: bold; 
+}
+
+p:hover {
+    color: darkgray; 
+}
