@@ -1,0 +1,12 @@
+a {
+    color: blue;
+    text-transform: uppercase;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    border-bottom: 2px solid red;
+}
