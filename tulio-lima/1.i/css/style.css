@@ -1,0 +1,9 @@
+.highlight:hover{
+    color: #ccc;
+}
+
+.highlight:hover span {
+    font-size: 1.2em;
+    background-color: yellow;
+    color: black; 
+}
