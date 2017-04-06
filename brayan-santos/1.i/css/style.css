@@ -1,5 +1,6 @@
 p:hover{
     color:grey;
+    transition: color .2s ease;
 }
 
 p:hover span{
