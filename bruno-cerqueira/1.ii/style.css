@@ -1,0 +1,9 @@
+a {
+    color:blue;
+    font-size:30px;
+    text-decoration:none;
+}
+
+a:hover {
+     border-bottom: 1px solid red;
+}
