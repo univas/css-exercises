@@ -2,7 +2,7 @@
     color:#ccc;
     transition: color 2s ease;
 }
-.higlight span{
+.highlight span{
     display: inline-block;
     transition: all 2s ease;
 }
